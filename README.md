@@ -1,4 +1,4 @@
-ITI-Terraform-Project
+ITI-Terraform-Project /n
 This is a project associated with terraform course in the Intensive Code Camp program Systems Administration track at ITI.
 In this project we implement this design
 What is state and why is it important in Terraform?
